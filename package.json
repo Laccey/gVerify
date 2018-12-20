@@ -1,0 +1,23 @@
+{
+  "name": "gVerify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laccey/gVerify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laccey/gVerify/issues"
+  },
+  "homepage": "https://github.com/Laccey/gVerify#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
